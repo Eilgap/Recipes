@@ -1,1 +1,1 @@
-This repository utilizes CookLang to digitize the recipies my family and I have created over the years.
+This repository utilizes Cooklang to digitize the recipies my family and I have created over the years.
